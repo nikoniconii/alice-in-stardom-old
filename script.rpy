@@ -659,7 +659,7 @@ label start:
     
     c "This is amazing! The very peak of engineering science!"
     
-    l "But you said that about our lawn mower..."
+    m "You said that about our lawn mower."
     
     a "{i}I rest my face in my palms. I don’t know if I’m overwhelmed by the sheer extravagance of everything, or is it just my companions’ absurdity.{/i}"
     
